@@ -4,5 +4,5 @@ files:
     destination: ~/
 hooks:
   AfterInstall:
-    - location: Scripts/RunResourceTests.sh
+    - location: serverStart.sh
       timeout: 180
