@@ -1,2 +1,2 @@
 #!/bin/bash
-node /home/ec2-user/server.js
+node /home/ec2-user/untappdForEchoAuth/server.js

@@ -39,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/serverStart.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.026642984">
-              <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+              <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -406,12 +406,12 @@
       <created>1459378626877</created>
       <option name="number" value="Default" />
       <updated>1459378626877</updated>
-      <workItem from="1459378627944" duration="1603000" />
+      <workItem from="1459378627944" duration="1693000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1603000" />
+    <option name="totallyTimeSpent" value="1693000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2" y="24" width="1440" height="823" extended-state="6" />
@@ -464,7 +464,7 @@
     <entry file="file://$PROJECT_DIR$/serverStart.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.026642984">
-          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+          <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
           <folding />
         </state>
       </provider>
