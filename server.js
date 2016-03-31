@@ -13,7 +13,7 @@ var Strategy = require('passport-untappd').Strategy;
 passport.use(new Strategy({
     clientID: 'C1D52362EE137AF8A4D49F3AA5FF77BD78C41B8E',
     clientSecret: 'E7D953C6BD1958A2FC305D8A637059A74C8DCE2C',
-    callbackURL: 'http://ec2-52-87-205-44.compute-1.amazonaws.com:3000/login/untappd/return'
+    callbackURL: 'http://ec2-52-87-214-96.compute-1.amazonaws.com:3000/login/untappd/return'
   },
   function(accessToken, refreshToken, profile, cb) {
     // In this example, the user's Facebook profile is supplied as the user
