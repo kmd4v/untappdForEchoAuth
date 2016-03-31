@@ -29,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/appspec.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.21314387">
-              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -76,8 +76,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="765" />
-    <option name="y" value="182" />
+    <option name="x" value="2" />
+    <option name="y" value="24" />
     <option name="width" value="1440" />
     <option name="height" value="823" />
   </component>
@@ -406,15 +406,15 @@
       <created>1459378626877</created>
       <option name="number" value="Default" />
       <updated>1459378626877</updated>
-      <workItem from="1459378627944" duration="800000" />
+      <workItem from="1459378627944" duration="909000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="800000" />
+    <option name="totallyTimeSpent" value="909000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="765" y="182" width="1440" height="823" extended-state="0" />
+    <frame x="2" y="24" width="1440" height="823" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -464,7 +464,7 @@
     <entry file="file://$PROJECT_DIR$/appspec.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.21314387">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
           <folding />
         </state>
       </provider>
