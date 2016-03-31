@@ -1,0 +1,8 @@
+os: linux
+files:
+  - source: /
+    destination: ~/
+hooks:
+  AfterInstall:
+    - location: Scripts/RunResourceTests.sh
+      timeout: 180
