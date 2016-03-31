@@ -4,6 +4,6 @@ files:
   - source: /
     destination: /home/ec2-user/untappdForEchoAuth/
 hooks:
-  AfterInstall:
-    - location: serverStart.sh
-      timeout: 180
+ # AfterInstall:
+ #   - location: serverStart.sh
+ #     timeout: 180
