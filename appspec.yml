@@ -2,8 +2,8 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /home/ec2-user/
+    destination: /home/ec2-user/untappdForEchoAuth/
 hooks:
   AfterInstall:
-    - location: serverStart.sh
+    - location: /home/ec2-user/untappdForEchoAuth/serverStart.sh
       timeout: 180
