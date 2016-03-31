@@ -1,2 +1,2 @@
 #!/bin/bash
-node server.js
+node /home/ec2-user/server.js
