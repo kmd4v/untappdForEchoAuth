@@ -27,8 +27,8 @@
       <file leaf-file-name="appspec.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/appspec.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.21314387">
-              <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+            <state vertical-scroll-proportion="0.13321492">
+              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -416,12 +416,12 @@
       <created>1459378626877</created>
       <option name="number" value="Default" />
       <updated>1459378626877</updated>
-      <workItem from="1459378627944" duration="1886000" />
+      <workItem from="1459378627944" duration="1908000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1886000" />
+    <option name="totallyTimeSpent" value="1908000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2" y="24" width="1440" height="823" extended-state="6" />
@@ -481,8 +481,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/appspec.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21314387">
-          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        <state vertical-scroll-proportion="0.13321492">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
           <folding />
         </state>
       </provider>

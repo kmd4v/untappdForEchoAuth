@@ -3,7 +3,7 @@ os: linux
 files:
   - source: /
     destination: /home/ec2-user/untappdForEchoAuth/
-hooks:
+#hooks:
  # AfterInstall:
  #   - location: serverStart.sh
  #     timeout: 180
